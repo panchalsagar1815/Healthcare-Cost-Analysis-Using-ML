@@ -9,4 +9,3 @@ Through the utilization of advanced machine learning algorithms, this project se
 
 The predictive modelling aspect of the project will enable healthcare providers, policymakers, and analysts to anticipate and understand the potential costs associated with patient care. This, in turn, can aid in resource allocation, financial planning, and the development of strategies to optimize the efficiency and cost-effectiveness of healthcare services.
 
-In summary, the "Healthcare Cost Analysis Using Machine Learning" project endeavours to leverage machine learning techniques to enhance our understanding of the factors influencing healthcare costs, ultimately contributing to more informed decision-making in the healthcare sector.
